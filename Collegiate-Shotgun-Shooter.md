@@ -1,5 +1,5 @@
 # Collegiate Shotgun Shooter  
-Here is her information and goals. 
+Here is her information and goals...  
 She is between a beginner and intermediate at lifting. She lifted weights and ran occasionally this summer but not consistently.  
 She wants to lift 3 days a week.  
 Her biggest goal is to increase overall strength. She is on my college's trap shooting team so if there is any specific muscle groups that would be beneficial to her there then she would like to work on that.  
