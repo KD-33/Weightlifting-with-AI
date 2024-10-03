@@ -1,10 +1,11 @@
 # Collegiate Shotgun Shooter  
 Here is her information and goals...  
-She is between a beginner and intermediate at lifting. She lifted weights and ran occasionally this summer but not consistently.  
-She wants to lift 3 days a week.  
+19 year old female  
+She is between a beginner and intermediate level at lifting. She lifted weights and ran occasionally this summer but not consistently.  
+Wants to lift 3 days a week.  
 Her biggest goal is to increase overall strength. She is on my college's trap shooting team so if there is any specific muscle groups that would be beneficial to her there then she would like to work on that.  
-She has access to a gym.  
-She has no injuries or limitations that you should be aware of.  
+Has access to a gym.  
+Has no injuries or limitations that you should be aware of.  
 
 
 ## Claude  
