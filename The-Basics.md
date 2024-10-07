@@ -8,3 +8,4 @@ In order to use AI to create a tailored weightlifting plan, you need to provide 
 5. How many days per week you can commit to weightlifting
 6. What equipment you have access to (e.g., home gym, local gym, specific equipment)  
 
+[Back to Home](README.md)  
