@@ -54,3 +54,5 @@ Core: Bicycle Crunches or Hanging Leg Raises (3 sets of 12-15 reps)
 Rest between sets: 1.5-2 minutes to reduce the risk of over-fatigue.  
 Stretching and mobility: Incorporate 5-10 minutes of stretching post-workout to reduce soreness.  
 Progression: He can gradually increase weights as he gets stronger while keeping the reps lower to avoid soreness.  
+
+[Back to Home](README.md)  
