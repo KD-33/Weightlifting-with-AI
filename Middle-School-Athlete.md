@@ -54,3 +54,4 @@ Shoulder Press Machine: 3 sets of 10-12 reps
 Back Extension Machine: 3 sets of 10-12 reps  
 Russian Twists (no weight or very light medicine ball): 3 sets of 20-30 twists  
 
+[Back to Home](README.md)  
