@@ -57,3 +57,5 @@ Cool Down (5-10 minutes): Focus on upper body and lower body stretches.
 Rest Days: Incorporate gentle activities like walking or swimming on non-lifting days to promote overall health without stressing the knees.  
 Progression: Start with lighter weights and gradually increase as he gets stronger. Prioritize proper form, especially for his knees.  
 Diet: Pair this with a healthy diet focusing on balanced meals to assist with weight loss.  
+
+[Back to Home](README.md)  
