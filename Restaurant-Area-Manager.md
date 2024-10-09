@@ -1,11 +1,11 @@
 # Restaurant Area Manager  
-His infromation and goals include... 
-47 year old male restaurant area manager  
+His infromation and goals include...  
+47 year old male restaurant area manager    
 Currently not fit, but has had experience with weightlifting in the past  
 Overweight and has bad knees  
 Wants to improve his overall health and lose weight  
-Can commit two days a week to weightlifting
-Has access to a gym
+Can commit two days a week to weightlifting  
+Has access to a gym  
 
 ## Claude
 ### Day 1 (e.g., Monday):  
