@@ -9,6 +9,7 @@ Have you ever wanted to get in the gym, but weren't sure how to start? Here's ho
 - [Collegiate Cross Country Runner](Collegiate-Cross-Country-Runner.md)  
 - [Carpenter](Carpenter.md)  
 - [Middle School Athlete](Middle-School-Athlete.md)  
-- [Restaurant Area Manager](Restaurant-Area-Manager.md)  
+- [Restaurant Area Manager](Restaurant-Area-Manager.md)
+- [Program Analyses](Program-Analyses.md)
 
 </details>
