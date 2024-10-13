@@ -6,7 +6,7 @@ She can commit to four days a week
 Pretty fit and has multiple years of experience with weightlifting  
 Has access to a gym  
 No injuries to be concerned about  
-Wants a 12 week summer plan that can be broken up into 3 seperate 4 week cycles  
+Wants a 12 week summer plan that can be broken up into 3 separate 4 week cycles  
 
 
 ## Claude
