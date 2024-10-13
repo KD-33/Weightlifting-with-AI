@@ -3,9 +3,9 @@ Here is his information and goals...
 19 year old male  
 Relatively fit and has been in and around a weight room for the last 5 years  
 Wants to gain overall strength without making himself too sore for his job  
-Plans to lift 2 days per week
-No injuries or health concerns
-Has access to a gym
+Plans to lift 2 days per week  
+No injuries or health concerns  
+Has access to a gym  
 
 ## Claude
 ### Day 1 (e.g., Monday or Tuesday):  
