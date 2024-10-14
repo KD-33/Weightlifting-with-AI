@@ -2,7 +2,15 @@
 I did three different evaluations of my programs to look for strengths and weaknesses. I put Claude's programs back through ChatGPT. I put ChatGPT's programs back through Claude. Finally, I had a Certified Strength and Conditioning Specialist (CSCS) go through all of the programs that I made with AI. 
 
 ## CSCS Thoughts  
--Overall basic programs  
+- Overall basic programming  
+  - Important Note: NOTHING IS WRONG WITH BASIC PROGRAMMING  
+- Many different exercises can achieve the same goals  
+  - He thought that the exercises that ChatGPT and Claude picked were all solid, usable choices
+- Specifically he found "No glaring red flags"  
+- He would have changed around a few of the exercises, but he said that was simply personal preference  
+  - Ex. There are box jumps in the Collegiate Cross Country Runner's plan, he would have moved them from the end of the workout to the beginning  
+- Another minor change that he noted was the rep scheme in a few of the plans  
+  - In the Restaurant Manager plan the first few lift exercises have high rep schemes (10-12), but that may aggravate his knees so more sets with less reps (4 or 5 sets of 4-6 reps) could be more beneficial 
 
 ## ChatGPT Thoughts (on Claude's Programs)  
 ### 1. Restaurant Area Manager (47-year-old male)
