@@ -68,4 +68,8 @@ Cool-down with static stretches, focusing on the muscles worked that day.
 Focus on progressive overload: gradually increase the weight each week while maintaining proper form.  
 Rest at least 1 minute between sets and up to 2 minutes for heavier lifts (squats, deadlifts).  
 
+### Workout Log  
+If you would like a log to track this workout plan click [HERE](WorkoutLogSheet-CollegiateShotgunShooter.pdf)  
+
+
 [Back to Home](README.md)  
