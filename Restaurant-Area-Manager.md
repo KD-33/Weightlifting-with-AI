@@ -58,4 +58,7 @@ Rest Days: Incorporate gentle activities like walking or swimming on non-lifting
 Progression: Start with lighter weights and gradually increase as he gets stronger. Prioritize proper form, especially for his knees.  
 Diet: Pair this with a healthy diet focusing on balanced meals to assist with weight loss.  
 
+### Workout Log  
+If you would like a log to track this workout plan click [HERE](WorkoutLogSheet-RestaurantAreaManager.pdf)  
+
 [Back to Home](README.md)  
