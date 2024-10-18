@@ -97,4 +97,7 @@ Cool Down: Foam rolling/stretching
 Recovery Days: Include active recovery, yoga, or light mobility work on rest days.  
 Focus: Days 1 and 2 are more strength-focused, while Days 3 and 4 target power, stability, and upper body core work.  
 
+### Workout Log  
+If you would like a log to track this workout plan click [HERE](WorkoutLogSheet-CollegiateXCRunner.pdf)  
+
 [Back to Home](README.md)  
